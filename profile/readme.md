@@ -1,1 +1,1 @@
-## GNAT Academic Program by AdaCore
+## GNAT Academic Program
