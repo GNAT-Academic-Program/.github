@@ -5,7 +5,7 @@
 1. Our process has been optimized for and tested exclusively on Linux, specifically Ubuntu 20.04 LTS.    
 2. For the best experience, we advise installing and using Linux (preferably Ubuntu LTS) as your operating system.
 
-#### Install Alire, an Ada package manager: 
+### Install Alire, an Ada package manager: 
 - Go to https://github.com/alire-project/alire/releases
 - Download and unzip the latest linux zip
 - Add `where_you_unzipped/alr` to [PATH](https://phoenixnap.com/kb/linux-add-to-path)  
