@@ -10,7 +10,7 @@
 - Download and unzip the latest linux zip
 - Add `where_you_unzipped/alr` to [PATH](https://phoenixnap.com/kb/linux-add-to-path)  
 - Verify Alire is found on your path. 
-```console   
+``` 
 which alr
 ```
 
