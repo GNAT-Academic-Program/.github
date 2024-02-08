@@ -5,7 +5,7 @@
 1. Our process has been optimized for and tested exclusively on Linux, specifically Ubuntu 20.04 LTS.    
 2. For the best experience, we advise installing and using Linux (preferably Ubuntu LTS) as your operating system.
 
-### Install Alire, an Ada package manager: 
+### Install Alire, an Ada package manager
 - Download and unzip the [Alire 1.2.2 linux zip](https://github.com/alire-project/alire/releases/download/v1.2.2/alr-1.2.2-bin-x86_64-linux.zip)
 - Add `where_you_unzipped/alr` to [PATH](https://phoenixnap.com/kb/linux-add-to-path)  
 - Verify Alire is found on your path. 
@@ -25,3 +25,10 @@ When you are done, you can delete it:
 ```
 alr index --del gap
 ```
+### Install VSCode
+```
+sudo snap install --classic code
+```
+### Install the VSCode Ada Extension
+
+
