@@ -1,7 +1,7 @@
 # GNAT Academic Program
 
 ##
-- For any information please reach [Olivier Henley](henley@adacore.com)
+- To participate or for any information please reach [Olivier Henley](henley@adacore.com)
 
 ## Learn Ada
 - [The official way to learn Ada and SPARK](https://learn.adacore.com/courses/intro-to-ada/index.html)
