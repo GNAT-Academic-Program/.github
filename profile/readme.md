@@ -1,7 +1,7 @@
 # GNAT Academic Program
 
 ## Contact and Support
-- To participate or for any information please reach [Olivier Henley](henley@adacore.com)
+- To participate or for any information please reach [Olivier Henley](mailto:henley@adacore.com)
 
 ## Join our Discord Server
 - https://discord.gg/hNpuxYD4ya
