@@ -1,5 +1,8 @@
 # GNAT Academic Program
 
+## Learn Ada
+- [The official way to learn Ada and SPARK](https://learn.adacore.com/courses/intro-to-ada/index.html)
+
 ## Onboarding instructions
 
 1. Our process has been optimized for and tested exclusively on Linux, specifically Ubuntu 20.04 LTS.    
@@ -30,5 +33,3 @@ alr index --del gap
 sudo snap install --classic code
 ```
 ### Install the VSCode Ada Extension
-
-
