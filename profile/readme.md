@@ -39,3 +39,6 @@ alr index --del gap
 sudo snap install --classic code
 ```
 ### Install the VSCode Ada Extension
+```
+code --install-extension adacore.ada
+```
