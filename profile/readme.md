@@ -42,3 +42,7 @@ sudo snap install --classic code
 ```
 code --install-extension adacore.ada
 ```
+### Install OpenOCD (needed for embedded)
+```
+sudo apt-get install opeocd
+```
