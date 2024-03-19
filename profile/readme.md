@@ -15,7 +15,7 @@
 2. For the best experience, we advise installing and using Linux (preferably Ubuntu LTS) as your operating system.
 
 ### Install Alire, an Ada package manager
-- Download and unzip the [Alire 1.2.2 linux zip](https://github.com/alire-project/alire/releases/download/v1.2.2/alr-1.2.2-bin-x86_64-linux.zip)
+- Download and unzip the [Alire 2.0 linux zip](https://github.com/alire-project/alire/releases/download/v2.0.0/alr-2.0.0-bin-x86_64-linux.zip)
 - Add `where_you_unzipped/alr` to [PATH](https://phoenixnap.com/kb/linux-add-to-path)  
 - Verify Alire is found on your path. 
 ``` 
