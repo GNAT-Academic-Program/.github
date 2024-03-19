@@ -11,7 +11,7 @@
 
 ## Onboarding instructions
 
-1. Our process has been optimized for and tested exclusively on Linux, specifically Ubuntu 20.04 LTS.    
+1. Our process has been optimized for and tested exclusively on Linux, specifically Ubuntu 20.04/22.04 LTS.    
 2. For the best experience, we advise installing and using Linux (preferably Ubuntu LTS) as your operating system.
 
 ### Install Alire, an Ada package manager
