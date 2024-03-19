@@ -29,11 +29,6 @@ From a command line, install the GAP Alire index named `gap` locally:
 ```
 alr index --add git+https://github.com/GNAT-Academic-Program/alire-index --name gap
 ```
-
-When you are done, you can delete it:
-```
-alr index --del gap
-```
 ### Install VSCode
 ```
 sudo snap install --classic code
@@ -45,4 +40,8 @@ code --install-extension adacore.ada
 ### Install OpenOCD (needed for embedded)
 ```
 sudo apt-get install opeocd
+```
+### (Optional) If you need to delete the GAP index:
+```
+alr index --del gap
 ```
