@@ -39,7 +39,7 @@ code --install-extension adacore.ada
 ```
 ### Install OpenOCD (needed for embedded)
 ```
-sudo apt-get install opeocd
+sudo apt-get install openocd
 ```
 ### (Optional) If you need to delete the GAP index:
 ```
