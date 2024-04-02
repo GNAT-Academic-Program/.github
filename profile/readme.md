@@ -15,7 +15,7 @@
 - [The Ada Forum](https://forum.ada-lang.io/)
 
 ## Capstone Ideas
-- [Open ended list of proposals](https://github.com/GNAT-Academic-Program/capstone_proposals)
+- [Open-ended list of proposals](https://github.com/GNAT-Academic-Program/capstone_proposals)
 
 ## Onboarding instructions
 
