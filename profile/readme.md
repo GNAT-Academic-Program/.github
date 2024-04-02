@@ -9,6 +9,11 @@
 ## Learn Ada
 - [The official way to learn Ada and SPARK](https://learn.adacore.com/courses/intro-to-ada/index.html)
 
+## Ada main ressources
+- [Awesome-Ada](https://github.com/ohenley/awesome-ada/)
+- [The Ada/SPARK package manager: Alire](https://alire.ada.dev/)
+- [The Ada Forum](https://forum.ada-lang.io/)
+
 ## Onboarding instructions
 
 1. Our process has been optimized for and tested exclusively on Linux, specifically Ubuntu 20.04/22.04 LTS.    
