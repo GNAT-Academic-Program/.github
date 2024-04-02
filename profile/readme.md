@@ -11,9 +11,9 @@
 - [AFTI: Ada For The Impatient (Work-In-Progress)](https://github.com/GNAT-Academic-Program/AFTI/)
 
 ## Ada main ressources
-- [Awesome-Ada](https://github.com/ohenley/awesome-ada/)
 - [The Ada/SPARK package manager: Alire](https://alire.ada.dev/)
 - [The Ada Forum](https://forum.ada-lang.io/)
+- [Awesome-Ada](https://github.com/ohenley/awesome-ada/)
 
 ## Capstone Ideas
 - [Open-ended list of proposals](https://github.com/GNAT-Academic-Program/capstone_proposals)
