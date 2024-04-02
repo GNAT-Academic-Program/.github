@@ -14,6 +14,9 @@
 - [The Ada/SPARK package manager: Alire](https://alire.ada.dev/)
 - [The Ada Forum](https://forum.ada-lang.io/)
 
+## Capstone Ideas
+- [Open ended list of proposals](https://github.com/GNAT-Academic-Program/capstone_proposals)
+
 ## Onboarding instructions
 
 1. Our process has been optimized for and tested exclusively on Linux, specifically Ubuntu 20.04/22.04 LTS.    
