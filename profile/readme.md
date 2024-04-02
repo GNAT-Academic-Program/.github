@@ -8,6 +8,7 @@
 
 ## Learn Ada
 - [The official way to learn Ada and SPARK](https://learn.adacore.com/courses/intro-to-ada/index.html)
+- [AFTI: Ada For The Impatient (Work-In-Progress)](https://github.com/GNAT-Academic-Program/AFTI/)
 
 ## Ada main ressources
 - [Awesome-Ada](https://github.com/ohenley/awesome-ada/)
