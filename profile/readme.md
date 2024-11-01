@@ -49,7 +49,7 @@ where alr
 ##### X86_64
 - Download and unzip the [Alire 2.0.x MacOS x86_64 zip](https://github.com/alire-project/alire/releases/download/v2.0.2/alr-2.0.2-bin-x86_64-macos.zip)
 
-- Add `where_you_unzipped_alr/bin` to [PATH]:
+- Add `where_you_unzipped_alr/bin` to [PATH](https://pimylifeup.com/macos-path-environment-variable/):
 ```
 echo "where_you_unzipped_alr/bin" | sudo tee /etc/paths.d/alr_config > /dev/null
 ```
@@ -62,6 +62,11 @@ sudo chmod 644 /etc/paths.d/alr_config
 - Update the machine's PATH:    
 ```
 /usr/libexec/path_helper -s
+```
+
+- Verify Alire is found on your Path. 
+``` 
+where alr
 ```
 
 ### Add the GAP Alire index (IMPORTANT)
