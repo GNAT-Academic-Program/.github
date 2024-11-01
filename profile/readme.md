@@ -64,7 +64,7 @@ sudo chmod 644 /etc/paths.d/alr_config
 /usr/libexec/path_helper -s
 ```
 
-- Verify Alire is found on your Path. 
+- Verify Alire is found on your machine's PATH. 
 ``` 
 where alr
 ```
