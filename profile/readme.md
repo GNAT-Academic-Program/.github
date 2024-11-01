@@ -24,12 +24,27 @@
 2. For the best experience, we advise installing and using Linux (preferably Ubuntu LTS) as your operating system.
 
 ### Install Alire, an Ada package manager
-- Download and unzip the [Alire 2.0 linux zip](https://github.com/alire-project/alire/releases/download/v2.0.0/alr-2.0.0-bin-x86_64-linux.zip)
+#### Linux
+- Download and unzip the [Alire 2.0.x linux zip](https://github.com/alire-project/alire/releases/download/v2.0.2/alr-2.0.2-bin-x86_64-linux.zip)
 - Add `where_you_unzipped/alr` to [PATH](https://phoenixnap.com/kb/linux-add-to-path)  
 - Verify Alire is found on your path. 
 ``` 
 which alr
 ```
+
+#### Windows
+- Download and execute the [Alire 2.0.x Windows installer](https://github.com/alire-project/alire/releases/download/v2.0.2/alr-2.0.2-installer-x86_64-windows.exe)
+- Download and install [Everything](https://www.voidtools.com/Everything-1.4.1.1026.x86-Setup.exe)
+- Open Everything. Wait It has finished indexing your drives. Then search for `alr.exe` and copy the path where it is found. 
+- Add `where_you_found_alr\bin` to [PATH](https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/)
+- Verify Alire is found on your Path. 
+``` 
+where alr
+```
+
+#### MacOS
+
+
 
 ### Add the GAP Alire index (IMPORTANT)
 The GAP Alire index hosts crates for internal review before public release in the community index. Add this index for access to early crate versions.
