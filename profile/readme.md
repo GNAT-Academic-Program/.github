@@ -25,8 +25,8 @@
 
 ### Install Alire, an Ada package manager
 #### Linux
-- Download and unzip the [Alire 2.0.x linux zip](https://github.com/alire-project/alire/releases/download/v2.0.2/alr-2.0.2-bin-x86_64-linux.zip)
-- Add `where_you_unzipped/alr` to [PATH](https://phoenixnap.com/kb/linux-add-to-path)  
+- Download and unzip the [Alire 2.0.x Linux zip](https://github.com/alire-project/alire/releases/download/v2.0.2/alr-2.0.2-bin-x86_64-linux.zip)
+- Add `where_you_unzipped_alr/bin` to [PATH](https://phoenixnap.com/kb/linux-add-to-path)  
 - Verify Alire is found on your path. 
 ``` 
 which alr
@@ -35,7 +35,7 @@ which alr
 #### Windows
 - Download and execute the [Alire 2.0.x Windows installer](https://github.com/alire-project/alire/releases/download/v2.0.2/alr-2.0.2-installer-x86_64-windows.exe)
 - Download and install [Everything](https://www.voidtools.com/Everything-1.4.1.1026.x86-Setup.exe)
-- Open Everything. Wait It has finished indexing your drives. Then search for `alr.exe` and copy the path where it is found. 
+- Open Everything. Wait it has finished indexing your drives. Then search for `alr.exe` and copy the path where it's found. 
 - Add `where_you_found_alr\bin` to [PATH](https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/)
 - Verify Alire is found on your Path. 
 ``` 
@@ -43,8 +43,26 @@ where alr
 ```
 
 #### MacOS
+##### AARCH64
+- Download and unzip the [Alire 2.0.x MacOS aarch64 zip](https://github.com/alire-project/alire/releases/download/v2.0.2/alr-2.0.2-bin-aarch64-macos.zip)
 
+##### X86_64
+- Download and unzip the [Alire 2.0.x MacOS x86_64 zip](https://github.com/alire-project/alire/releases/download/v2.0.2/alr-2.0.2-bin-x86_64-macos.zip)
 
+- Add `where_you_unzipped_alr/bin` to [PATH]:
+```
+echo "where_you_unzipped_alr/bin" | sudo tee /etc/paths.d/alr_config > /dev/null
+```
+
+- Change the permission of the created file with the following command:
+```
+sudo chmod 644 /etc/paths.d/alr_config
+```
+
+- Update the machine's PATH:    
+```
+/usr/libexec/path_helper -s
+```
 
 ### Add the GAP Alire index (IMPORTANT)
 The GAP Alire index hosts crates for internal review before public release in the community index. Add this index for access to early crate versions.
