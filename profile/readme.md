@@ -74,7 +74,7 @@ The GAP Alire index hosts crates for internal review before public release in th
 
 From a command line, install the GAP Alire index named `gap` locally:
 ```
-alr index --add git+https://github.com/GNAT-Academic-Program/alire-index --name gap
+alr index --add git+https://github.com/GNAT-Academic-Program/gap-alire-index --name gap
 ```
 ### Install VSCode
 ```
