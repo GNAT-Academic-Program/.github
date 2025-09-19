@@ -8,7 +8,7 @@
 
 ## Learn Ada
 - [The official way to learn Ada and SPARK](https://learn.adacore.com/courses/intro-to-ada/index.html)
-- [AFTI: Ada For The Impatient (Work-In-Progress)](https://github.com/GNAT-Academic-Program/AFTI/)
+- [Build a Snake Game with Ada and ANSI Magic (Work-In-Progress)](https://labs.iximiuz.com/courses/ansi-ada-snake-34d534e7)
 
 ## Ada main ressources
 - [The Ada/SPARK package manager: Alire](https://alire.ada.dev/)
